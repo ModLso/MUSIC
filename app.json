@@ -1,46 +1,46 @@
 {
-    "name": "MADISON",
-    "logo": "https://telegra.ph/file/c05b5f73f392a9e986c45.jpg",
+    "name": "’‘ٍ÷}",
+    "logo": "https://telegra.ph/file/8fcfb9a93a0fa70e75c68.jpg",
     "description": "UFO Music Voice Chat.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/MADISON111110/MuS_AlF",
+    "repository": "https://github.com/ModLso/MUSIC",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
-            "description": "هنا حط كود تيرمكس يبرو",
+            "description": "هنا حط كود تيرمكس ",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "هنا هتحط تكن بوتك",
+            "description": "هنا حط توكن بوتك",
             "required": true
         },
         "BOT_NAME": {
-            "description": "هنا هتحط اسم بوت الاغاني",
+            "description": "هنا خلي اسم بوت الاغاني",
             "required": false,
             "value": "الفا"
         },
         "BOT_USERNAME": {
-            "description": "يوزر نيــم البوت بتاعك منغير علامه -> @",
+            "description": "معرف البوت  منغير علامه -> @",
             "required": true,
             "value": "MUS_ALF_BOT"
         },
         "ASSISTANT_NAME": {
-            "description": "يوزر نيــم بوتك تاني منغير ->  @",
+            "description": "معرف بوتك ثاني منغير ->  @",
             "required": true,
             "value": "MUS_ALF_BOT"
         },
         "BG_IMAGE": {
-            "description": "هنا هتحط صوره الخلفيه ان وجدت",
+            "description": "هنا حط صوره الخلفيه",
             "required": false,
             "value":"https://telegra.ph/file/c05b5f73f392a9e986c45.jpg"
         },
         "THUMB_IMG": {
-            "description": "سيبــها زي مهي عادي يبا -> bg_image",
+            "description": "عوفهه لاتلعب بيهة -> bg_image",
             "required": false,
             "value": "https://telegra.ph/file/c05b5f73f392a9e986c45.jpg"
         },
         "OWNER_NAME": {
-            "description": "حط اليوز بتاعك منغير علامه @",
+            "description": "حط المعرف مالتك منغير علامه @",
             "required": false,
             "value": "AAHMEED11"
         },
@@ -62,7 +62,7 @@
             "value": "60"
         },
         "PMPERMIT": {
-            "description": "سيــبها.",
+            "description": "لاتلعب بيهة.",
             "required": false,
             "value": "ENABLE"
         },
