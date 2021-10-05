@@ -17,17 +17,17 @@
         "BOT_NAME": {
             "description": "هنا خلي اسم بوت الاغاني",
             "required": false,
-            "value": "الفا"
+            "value": ""
         },
         "BOT_USERNAME": {
             "description": "معرف البوت  منغير علامه -> @",
             "required": true,
-            "value": "MUS_ALF_BOT"
+            "value": ""
         },
         "ASSISTANT_NAME": {
             "description": "معرف بوتك ثاني منغير ->  @",
             "required": true,
-            "value": "MUS_ALF_BOT"
+            "value": ""
         },
         "BG_IMAGE": {
             "description": "هنا حط صوره الخلفيه",
@@ -42,7 +42,7 @@
         "OWNER_NAME": {
             "description": "حط المعرف مالتك منغير علامه @",
             "required": false,
-            "value": "AAHMEED11"
+            "value": ""
         },
         "API_ID": {
             "description": "حــط App ID from my.telegram.org/apps",
