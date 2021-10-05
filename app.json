@@ -74,7 +74,7 @@
         "GROUP_SUPPORT": {
             "description": "هنا حط معرف كروبك",
             "required": false,
-            "value": "Te_AlFaA"
+            "value": ""
         }
     },
     "buildpacks": [
