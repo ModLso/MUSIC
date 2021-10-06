@@ -51,7 +51,7 @@ async def start_(client: Client, message: Message):
                         "قناه السورس", url=f"https://t.me/{UPDATES_CHANNEL}")               
                  ],[
                     InlineKeyboardButton(
-                         AL ZaEm .╡", url="https://t.me/lll4B"
+                         "AL ZaEm .╡", url="https://t.me/lll4B"
                     )
                 ]
             ]
