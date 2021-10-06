@@ -45,13 +45,13 @@ async def start_(client: Client, message: Message):
                         "اضف البوت لمجموعتك", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
                 ],[
                     InlineKeyboardButton(
-                        "جروب الدعم", url=f"https://t.me/lll4B{}"
+                        "جروب الدعم", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "قناه السورس", url=f"https://t.me/lll4B{}")               
+                        "قناه السورس", url=f"https://t.me/{UPDATES_CHANNEL}")               
                  ],[
                     InlineKeyboardButton(
-                        "╞. 𝐒𝐨𝐮𝐫𝐜𝐞 AL ZaEm .╡", url="https://t.me/lll4B"
+                         AL ZaEm .╡", url="https://t.me/lll4B"
                     )
                 ]
             ]
@@ -71,10 +71,10 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "جروب الدعم", url=f"https://t.me/lll4B{GROUP_SUPPORT}"
+                        "جروب الدعم", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "قناه السورس", url=f"https://t.me/lll4B{UPDATES_CHANNEL}"
+                        "قناه السورس", url=f"https://t.me/{UPDATES_CHANNEL}"
                     )
                 ]
             ]
@@ -155,15 +155,15 @@ async def help_(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "جروب الدعم", url=f"https://t.me/lll4B{GROUP_SUPPORT}"
+                        "جروب الدعم", url=f"https://t.me{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "قناة السورس", url=f"https://t.me/lll4B{UPDATES_CHANNEL}"
+                        "قناة السورس", url=f"https://t.me/{UPDATES_CHANNEL}"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "╞. 𝐒𝐨𝐮𝐫𝐜𝐞 AL ZaEm .╡", url=f"https://t.me/lll4B"
+                        "AL ZaEm .╡", url=f"https://t.me/lll4B"
                     )
                 ]
             ]
