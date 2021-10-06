@@ -45,10 +45,10 @@ async def start_(client: Client, message: Message):
                         "اضف البوت لمجموعتك", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
                 ],[
                     InlineKeyboardButton(
-                        "جروب الدعم", url=f"https://t.me/{GROUP_SUPPORT}"
+                        "جروب الدعم", url=f"https://t.me/{}"
                     ),
                     InlineKeyboardButton(
-                        "قناه السورس", url=f"https://t.me/{UPDATES_CHANNEL}")               
+                        "قناه السورس", url=f"https://t.me/{}")               
                  ],[
                     InlineKeyboardButton(
                         "╞. 𝐒𝐨𝐮𝐫𝐜𝐞 AL ZaEm .╡", url="https://t.me/"
