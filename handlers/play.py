@@ -558,7 +558,7 @@ async def play(_, message: Message):
                     InlineKeyboardButton("عرض القائمه.. 💕", callback_data="menu"),
                     InlineKeyboardButton("اخفاء القائمه.. 💕", callback_data="cls"),
                 ],[
-                    InlineKeyboardButton("💕قناه السورس", url=f"https://t.me/so_alfaa")
+                    InlineKeyboardButton("💕قناه السورس", url=f"https://t.me/")
                 ],
             ]
         )
