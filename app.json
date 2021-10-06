@@ -69,7 +69,7 @@
         "UPDATES_CHANNEL": {
             "description": "هنا حط قناه السورس مالتك",
             "required": false,
-            "value": "so_alfaa"
+            "value": ""
         },
         "GROUP_SUPPORT": {
             "description": "هنا حط معرف كروبك",
