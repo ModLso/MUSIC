@@ -511,7 +511,7 @@ async def play(_, message: Message):
                     InlineKeyboardButton("عرض القائمه.. 💕", callback_data="menu"),
                     InlineKeyboardButton("اخفاء القائمه.. 💕", callback_data="cls"),
                 ],[
-                    InlineKeyboardButton("💕 قناه السورس", url=f"https://t.me/lll4B")
+                    InlineKeyboardButton("💕 قناه السورس", url=f"https://t.me/Player_MUSIC1")
                 ],
             ]
         )
@@ -558,7 +558,7 @@ async def play(_, message: Message):
                     InlineKeyboardButton("عرض القائمه.. 💕", callback_data="menu"),
                     InlineKeyboardButton("اخفاء القائمه.. 💕", callback_data="cls"),
                 ],[
-                    InlineKeyboardButton("💕قناه السورس", url=f"https://t.me/lll4B")
+                    InlineKeyboardButton("💕قناه السورس", url=f"https://t.me/Player_MUSIC1")
                 ],
             ]
         )
@@ -639,7 +639,7 @@ async def play(_, message: Message):
                     InlineKeyboardButton("عرض القائمه..💕", callback_data="menu"),
                     InlineKeyboardButton("اخفاء القائمه..💕", callback_data="cls"),
                 ],[
-                    InlineKeyboardButton("💕 قناه السورس", url=f"https://t.me/lll4B") 
+                    InlineKeyboardButton("💕 قناه السورس", url=f"https://t.me/Player_MUSIC1") 
                 ],
             ]
             )
@@ -738,7 +738,7 @@ async def lol_cb(b, cb):
                     InlineKeyboardButton("عرض القائمه..💕", callback_data="menu"),
                     InlineKeyboardButton("اخفاء القائمه..💕", callback_data="cls"),
                 ],[
-                    InlineKeyboardButton("💕 قناه السورس", url=f"https://t.me/lll4B")
+                    InlineKeyboardButton("💕 قناه السورس", url=f"https://t.me/Player_MUSIC1")
                 ],
             ]
     )
