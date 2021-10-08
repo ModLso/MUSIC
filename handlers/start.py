@@ -51,7 +51,7 @@ async def start_(client: Client, message: Message):
                         "قناه السورس", url=f"https://t.me/{UPDATES_CHANNEL}")               
                  ],[
                     InlineKeyboardButton(
-                         "AL ZaEm .╡", url="https://t.me/lll4B"
+                        "╞.Source FeOna .╡", url="https://t.me/Player_MUSIC1"
                     )
                 ]
             ]
@@ -155,7 +155,7 @@ async def help_(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "جروب الدعم", url=f"https://t.me{GROUP_SUPPORT}"
+                        "جروب الدعم", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
                         "قناة السورس", url=f"https://t.me/{UPDATES_CHANNEL}"
@@ -163,7 +163,7 @@ async def help_(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "AL ZaEm .╡", url=f"https://t.me/lll4B"
+                        "╞.Source FeOna .╡", url="https://t.me/Player_MUSIC1"
                     )
                 ]
             ]
