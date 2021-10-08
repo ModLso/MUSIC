@@ -1,6 +1,6 @@
 {
-    "name": "MUSIC",
-    "logo": "https://telegra.ph/file/8fcfb9a93a0fa70e75c68.jpg",
+    "name": "Player FeOna",
+    "logo": "https://telegra.ph/file/48586ec069716e60275de.jpg",
     "description": "UFO Music Voice Chat.",
     "keywords": ["music", "voice chat", "telegram"],
     "repository": "https://github.com/ModLso/MUSIC",
@@ -25,7 +25,7 @@
             "value": ""
         },
         "ASSISTANT_NAME": {
-            "description": "معرف بوتك ثاني منغير ->  @",
+            "description": "معرف حساب المساعد منغير ->  @",
             "required": true,
             "value": ""
         },
